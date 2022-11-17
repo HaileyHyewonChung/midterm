@@ -26,7 +26,7 @@ drive.mount('/content/drive')
 
 ### GitHub token 발행
 
-GitHub - 우측 상단 Profile - Dropdown에 Settings - 좌측 하단 Developer Settings - 좌측 Personal access tokens - Tokens(classic) - Generate new token - token 복사
+GitHub - 우측 상단 Profile - Dropdown에 Settings - 좌측 하단 Developer Settings - 좌측 Personal access tokens - Tokens(classic) - Generate new token - repo check - token 복사
 
 ### GitHub clone
 ```python
